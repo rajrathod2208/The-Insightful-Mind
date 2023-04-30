@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test blog post
-categories: [cate1, cate2]
+categories: cate1, cate2
 description: 
 keywords: keyword1, keyword2
 mermaid: false
