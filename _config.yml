@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mzlogin.netlify.app
+url: https://the-insightful-mind.netlify.app
 date_format: "ordinal"
 title: The Insightful Mind
 subtitle: "Strategic Thinking & Data Driven Decisions"
