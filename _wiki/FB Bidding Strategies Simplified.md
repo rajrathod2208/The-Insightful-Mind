@@ -2,9 +2,9 @@
 layout: wiki
 title: FB Bidding Strategies Simplified
 cate1: Facebook Ads
-cate2:
+cate2: Bidding
 description: 
-keywords: Bidding
+keywords: 
 date: 06-05-2023 at 11:15  AM
 ---
 
