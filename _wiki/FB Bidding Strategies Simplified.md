@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: FB Bidding Strategies Simplified
-cate1: Facebook-ads
+cate1: Facebook Ads
 cate2:
 description: 
 keywords: Bidding
